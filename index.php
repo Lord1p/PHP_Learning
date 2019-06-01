@@ -1,6 +1,3 @@
 <?php
-
-$var = "Hello World";
-echo $var;
-
+include("HelloWorld.php");
 ?>
